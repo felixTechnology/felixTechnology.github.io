@@ -1,0 +1,72 @@
+1. Go to templated.co
+-I download (full motion) for this example coding
+
+Domain Name sellers
+
+1. godaddy.com
+2. domains.google
+3.namecheap.com
+4.get.tech
+-Bought tesempowerment.tech from here and paid $!3.99 which was 84.24 Ghana Cedis
+- Click on Control Panel after your purchase
+-Go to Manage Orders
+- click on list/search orders (you will see your domain there)
+-click on the url of your registered domain
+-We need to update things in the control panel
+-before that, we need to get a host name.
+
+5. Now that I have my domain name, I will have to store my files somewhere
+- When you visit any website on the internet the browser has to download the files of that website from a physical location anywhere in the world
+- A company that stores a website files so they are always available when a user goes to the url is called a HOSTING PROVIDER
+
+6. HOSTING A STATIC WEBSITE OR WEBPRESS
+
+A. 1st PAID HOSTING PROVIDERS
+-DreamHost
+-HostGaters
+-Hostinger
+- bluehost
+-Godaddy
+
+B. Hosting providers has something in common
+- users manages the hosting service through a web application called cpanel
+
+C. Go to https://www.hostgator.com/web-hosting
+- make your plan purchase (choose thec cheapest plan and upgrade with time)
+-complete the payment
+- Click on control panel button on the landing page (exact way to get to your cpanel differs per hosting provider)
+-Now click on FILE MANAGER
+. Hosting provider has files and folders uploaded by default
+. click into the html folder section ,where we will add our files
+.select and delete default files in the html directory
+. to upload files from your local machine to your host platform, 1st create a zip files of your files and drag into the space.,
+. click on go back link
+.select the zip folder and click on extract
+
+now we have the website uploaded to the hosting provider
+
+D. We need to connect the hosting provider to the domain name
+
+-Scroll down and locate PRIMARY NAMESAVER
+-Copy it, and go to your DOMAIN control panel
+-click on NAME SERVERS ,CLICK ON IT
+- COPY the 1st and 2nd namesserver from the HOST Control panel and come and paste it
+-click on UPDATE NAMESERVERS.
+
+NOTE: Now everything is set to load your website or it becoming acccessible
+-sometimes it takes about 24hrs to have it fully uploaded4
+
+E. We can uploaded the files using FTP
+
+
+HOSTING USING GITHUB
+-Go to github
+-create a repository (The name of the repository is very important)
+-the name you use as your respository name is important, type your github account username, and add dot io (EX: felixTechnology.github.io)
+-this will create a repository that will be a special type of repository, which can host our website and pages
+-click on repositiory button
+-Now we have a repository
+-We can upload our files using command line or USING WEB INTERFACE
+-USING WEB INTERFACE ..click on (uploading an existing file), and drag and drop your files
+-click on commit, after files are uploaded
+-Now to make the link display as (tesempowerment.tech) as bought from domain platform, do the ff
